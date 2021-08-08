@@ -1,0 +1,39 @@
+/**************************TAG SELECTORS*************************************/
+
+body {
+ background-color: #DAD5AB;
+}
+
+hr {
+ background-color: transparent;
+ border-style: none none dotted;
+ border-color: green;
+ border-width: 8px;
+ width: 8%;
+}
+
+h1 {
+  color: #17b978
+}
+
+h3 {
+  color: #17b978
+}
+
+img:hover {
+  background-color: pink;
+}
+
+/****************************CLASS SELECTORS**********************************/
+.dp {
+  height: 290px;
+}
+.circular {
+  border-radius: 100%;
+}
+/****************************ID SELECTORS*************************************/
+
+#heading {
+  color: #2C2E43;
+  text-align: left;
+}
